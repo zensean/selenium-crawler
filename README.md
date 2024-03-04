@@ -8,17 +8,23 @@ pip install selenium
 ### 3.執行指定的 Python 檔案以執行對應功能。
 
 ## 檔案說明
-selenium-start.py: 這個檔案示範了如何使用 Selenium 啟動 Chrome 瀏覽器並訪問指定的網址，並截取網頁畫面。
+### selenium-start.py:
+這個檔案示範了如何使用 Selenium 啟動 Chrome 瀏覽器並訪問指定的網址，並截取網頁畫面。
 
-selenium-crawler.py: 這個檔案示範了如何使用 Selenium 進行網頁爬蟲，以 PTT 股票版為例，抓取文章標題。
+### selenium-crawler.py:
+這個檔案示範了如何使用 Selenium 進行網頁爬蟲，以 PTT 股票版為例，抓取文章標題。
 
-selenium-crawler-signin.py: 這個檔案示範了如何使用 Selenium 模擬登入網站，以會員系統為例。
+### selenium-crawler-signin.py:
+這個檔案示範了如何使用 Selenium 模擬登入網站，以會員系統為例。
 
-selenium-crawler-scrolling.py: 這個檔案示範了如何使用 Selenium 捲動網頁並擷取內容，以 LinkedIn 工作搜尋為例。
+### selenium-crawler-scrolling.py:
+這個檔案示範了如何使用 Selenium 捲動網頁並擷取內容，以 LinkedIn 工作搜尋為例。
 
-selenium-crawler-basic.py: 這個檔案示範了 Selenium 的基本使用方法，用於連線至指定網址。
+### selenium-crawler-basic.py:
+這個檔案示範了 Selenium 的基本使用方法，用於連線至指定網址。
 
-chromedriver.exe: Chrome 瀏覽器的驅動程式，用於操作瀏覽器。
+### chromedriver.exe:
+Chrome 瀏覽器的驅動程式，用於操作瀏覽器。
 
 ## 注意事項
 請確保 Chrome 瀏覽器及其驅動程式的版本相符，避免出現不相容的問題。
